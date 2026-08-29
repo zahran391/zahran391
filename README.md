@@ -11,7 +11,7 @@
 
 <br/> <br/>
 
-*Note: Turning hardware concepts into silicon reality.* 🚀
+*Note: Make by Logic* 😉
 
 </div>
 
@@ -23,17 +23,38 @@ Hi, I'm **Mostafa Zahran**, a Hardware Engineer specializing in **Digital IC Des
 
 ---
 
-### 🚀 Top Technologies & Skills
+### 🧰 Tech Stack
 
-<p align="center">
+#### 💻 Hardware Description & Programming Languages
+<p>
   <img src="https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
   <img src="https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
+  
+</p>
+
+#### 🌐 Web Platforms & Online EDA
+<p>
+  <img src="https://img.shields.io/badge/EDA_Playground-111111?style=for-the-badge&logo=circuitverse&logoColor=00E676" />
+</p>
+
+#### 🛠️ EDA Tools & Suites
+<p>
+  <img src="https://img.shields.io/badge/QuestaSim-00599C?style=for-the-badge&logo=mentor&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-00599C?style=for-the-badge&logo=mentor&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD_Vivado-E10098?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel_Quartus-F37023?style=for-the-badge&logo=intel&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Core Engineering Domains
+
+<p align="center">
   <img src="https://img.shields.io/badge/Digital_Design-008080?style=for-the-badge&logo=circuitverse&logoColor=white" />
   <img src="https://img.shields.io/badge/VLSI-2E8B57?style=for-the-badge&logo=cpu&logoColor=white" />
   <img src="https://img.shields.io/badge/ASIC_Design-4682B4?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-E10098?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA_Development-E10098?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/Mixed--Signal_IC-8A2BE2?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/QuestaSim_%2F_EDA-00599C?style=for-the-badge&logo=mentor&logoColor=white" />
 </p>
 
 ---
