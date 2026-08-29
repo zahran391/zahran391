@@ -34,7 +34,7 @@ Hi, I'm **Zahran**, a Hardware Engineer specializing in **Digital IC Design** an
   <img src="https://img.shields.io/badge/ASIC_Design-4682B4?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/FPGA-E10098?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/Mixed--Signal_IC-8A2BE2?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/QuestaSim_%2F_ModelSim-00599C?style=for-the-badge&logo=mentor&logoColor=white" />
+  <img src="https://img.shields.io/badge/QuestaSim_%2F_EDA-00599C?style=for-the-badge&logo=mentor&logoColor=white" />
 </p>
 
 ---
