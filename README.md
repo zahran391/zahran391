@@ -1,14 +1,13 @@
 <div align="center">
 
 <!-- Banner Graph Style -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2EA44F&center=true&vcenter=true&width=700&height=70&lines=HI+I+AM+ZAHRAN;DIGITAL+DESIGN+%26+VERILOG+ENGINEER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2EA44F&center=true&vcenter=true&width=700&height=70&lines=HI+I+AM+MOSTAFA+ZAHRAN;DIGITAL+DESIGN+%26+VERILOG+ENGINEER" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social & Quick Badges -->
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Social & Contact Badges -->
+<a href="https://www.linkedin.com/in/mostafa-zahran-46b68b348"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/201289090895"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/> <br/>
 
@@ -20,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Zahran**, a Hardware Engineer specializing in **Digital IC Design** and **Hardware Description Languages**. I focus on designing, verifying, and optimizing digital systems for ASIC and FPGA implementations.
+Hi, I'm **Mostafa Zahran**, a Hardware Engineer specializing in **Digital IC Design** and **Hardware Description Languages**. I focus on designing, verifying, and optimizing digital systems for ASIC and FPGA implementations.
 
 ---
 
